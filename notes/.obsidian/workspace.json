@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "9d14ee136f32405b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad4d9064a64cca04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ae94fb3f2de08f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploying the Fulfillment Endpoints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94237dd97e402475",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfc798b7359a3ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "783453592c378364",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "202b67f3113a3f1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16bfea4877e7fb63",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0dcec45d9b4fd16a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb315c4fdf6c1b7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fafa28068c04944a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deploying the Fulfillment Endpoints.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "692b0e4cf971ec56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deploying the Fulfillment Endpoints.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4528c06e8710c34d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fbd307a9f81d0182",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deploying the Fulfillment Endpoints.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "90ae94fb3f2de08f",
+  "lastOpenFiles": []
+}
